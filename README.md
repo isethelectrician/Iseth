@@ -7,9 +7,7 @@
 <body style="background-color:#D1F7DE;">
 
 
-    <!--heading-->
-    <font color="#040472">
-        <H1 ALIGN="Center">ISETH ELECTRICAL</H1>
+    <H1 ALIGN="Center"><strong>ISETH ELECTRICAL</strong></H1>
     </font>
 
     <!--menu-->
